@@ -1,2 +1,3 @@
-# python_examples
-Python code examples
+# Python examples
+ - terminal_progress_bar.py - hand-made pretty progress bar in terminal
+ 
